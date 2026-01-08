@@ -4,8 +4,6 @@
 
 **Full-Stack & Mobile Developer | Hyperstring Labs Founder | Chandigarh, India**
 
-![Visitors](https://komarev.com/ghpvc/?username=nagpalarpit&color=green&style=flat)
-
 </div>
 
 ## 🚀 About Me
