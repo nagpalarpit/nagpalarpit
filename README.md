@@ -16,21 +16,23 @@ I run **Hyperstring Labs** - where I drop complete starter kits for AI-powered S
 ## 🛠️ What I Work On
 - **Full-Stack SaaS**: React/Next.js + Node.js + Stripe/Razorpay payments
 - **Mobile Apps**: React Native (iOS/Android) + Ionic hybrid apps
+- **Desktop Apps**: Electron cross-platform apps
 - **Enterprise POS**: Payment systems deployed in Germany + global clients
 - **Ready-to-run examples**: Clone → npm install → deploy
 - **E-commerce**: Full marketplaces with MySQL/MongoDB backends
 - **AI Integration**: OpenAI APIs + Cursor-powered development
+- **Cloud Deployments**: AWS, Firebase, GCP, DigitalOcean scalable infrastructure
 
 ## 🛠️ Tech Stack
-| Frontend | Backend | Database | Mobile | Payments | DevOps | AI/ML | Tools |
-|----------|---------|----------|--------|----------|--------|-------|-------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-00BAF2?style=flat&logo=razorpay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-0070BA?style=flat&logo=paypal&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) |
+| Frontend | Backend | Database | Mobile | Desktop | Payments | DevOps | Cloud | AI/ML | Tools |
+|----------|---------|----------|--------|---------|----------|--------|-------|-------|-------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react-native&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) | ![Electron](https://img.shields.io/badge/Electron-191978?style=flat&logo=electron&logoColor=white) | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-00BAF2?style=flat&logo=razorpay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-0070BA?style=flat&logo=paypal&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) |
 
 ## 🔥 What I Build
-| SaaS | Enterprise | Mobile |
-|------|------------|--------|
-| **Hyperstring SaaS**<br/>AI + Multi-payment | **POS Systems**<br/>Stripe/Razorpay | **React Native**<br/>iOS/Android |
-| **E-commerce**<br/>Full marketplaces | 🔒 Private clients | **Ionic Hybrid** |
+| SaaS | Enterprise | Mobile | Desktop |
+|------|------------|--------|---------|
+| **Hyperstring SaaS**<br/>AI + Multi-payment | **POS Systems**<br/>Stripe/Razorpay | **React Native**<br/>iOS/Android | **Electron Apps**<br/>Cross-platform |
+| **E-commerce**<br/>Full marketplaces | 🔒 Private clients | **Ionic Hybrid** | |
 
 ## 🔗 Connect
 <div align="center">
@@ -42,5 +44,5 @@ I run **Hyperstring Labs** - where I drop complete starter kits for AI-powered S
 ---
 
 <div align="center">
-**Full-stack + Mobile | Open to projects 🚀**
+**Full-stack + Mobile + Desktop | Multi-Cloud Deployed | Open to projects 🚀**
 </div>
